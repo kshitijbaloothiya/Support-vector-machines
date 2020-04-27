@@ -1,0 +1,5 @@
+This was one of the kaggle datasets
+
+In this data set we had the data of college placement of university, and we have to predict the future placement scenario.
+
+In this code I tried some data visualization and tried to implement the logistic regression and support vector machine/
